@@ -18,7 +18,7 @@ Meu foco agora é fortalecer minhas bases em **programação, eletrônica e auto
 - Redes e Fundamentos de TI 🌐  
 - Eletrônica🔌  
 
-<img width="600" height="600" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/973b787b-0829-4c35-b020-4237c45dd291" />
+<img width="100" height="100" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/973b787b-0829-4c35-b020-4237c45dd291" />
 
 
 
