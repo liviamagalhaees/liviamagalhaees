@@ -18,6 +18,11 @@ Meu foco agora é fortalecer minhas bases em **programação, eletrônica e auto
 - Redes e Fundamentos de TI 🌐  
 - Eletrônica🔌  
 
+<img width="600" height="600" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/973b787b-0829-4c35-b020-4237c45dd291" />
+
+
+
+
  🚀 Objetivo
 Crescer profissionalmente na área da programação e, um dia, trabalhar com tecnologia viajando pelo mundo 🌍✨  
 
