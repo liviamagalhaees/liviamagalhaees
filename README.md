@@ -22,4 +22,4 @@ Meu foco agora é fortalecer minhas bases em **programação, eletrônica e auto
 Crescer profissionalmente na área da programação e, um dia, trabalhar com tecnologia viajando pelo mundo 🌍✨  
 
 📫 Contato
-📧liviamgalhaes344@gmail.com
+📧liviamagalhaes344@gmail.com
