@@ -1,7 +1,7 @@
 # 👋 Oii! Eu sou a Lívia Magalhães  
 
 💡 Tenho 17 anos e sou estudante do **Ensino Médio Integrado ao Técnico**.  
-📚 Já concluí um curso pela plataforma **Cisco** no **SENAI**.  
+📚 Já concluí um curso pela plataforma **Cisco** no **SENAI** -  **Python essentials 1**.
 🐍 Atualmente estou estudando **Python** também no **SENAI**.  
 ⚙️ No técnico, aprendo **Eletrônica** e já tive contato com **Arduino** e projetos práticos!  
 💻 Estou em constante aprendizado para me tornar uma **Desenvolvedora (Dev)**!  
